@@ -2,6 +2,7 @@
 Template folder structures that include a cmake file for beginning a c++ project.
 
 NewProject_Template has a blank script
+
 NewProject_TimedLoop_Template has a loop that waits X seconds
 
 
